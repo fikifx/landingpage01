@@ -1,0 +1,36 @@
+.hero {
+    color: white;
+    width: 100%;
+    height: 90vh;
+    background-image: url(1.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.hero .title {
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.jumbotron {
+    color: white;
+    width: 100%;
+    height: 100vh;
+    background-image: url(1.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
